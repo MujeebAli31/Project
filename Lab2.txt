@@ -1,0 +1,36 @@
+New Jersey:true
+New Jersey hashcode: -40550110
+ 'New' New Jersey hashcode: -40550110
+NJ Governor: true
+NJ Governor hashcode: -1218328182
+New Jersey: true
+New York: true
+Pennsylvania: true
+Delaware: true
+Maryland: true
+Connecticut: true
+New Jersey2: false
+Maryland,Moore
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
+Pennsylvania,Shapiro
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
+New Jersey,Murphy
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
+Connecticut,Lamont
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
+New York,Hochul
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
+Delaware,Carney
+NY Gov: Hochul
+NJ Gov: Murphy
+Error no governer found
